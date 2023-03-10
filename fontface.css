@@ -12,10 +12,10 @@
 
 @font-face {
     font-family: IRANYekanX;
-    src: url('fonts/IRANYekanX-regular.woff') format('woff');
+    src: url('fonts/IRANYekanX-Regular.woff') format('woff');
 }
 @font-face {
     font-family: IRANYekanX;
-    src: url('fonts/IRANYekanX-bold.woff') format('woff');
+    src: url('fonts/IRANYekanX-Bold.woff') format('woff');
     font-weight: 700;
 }
